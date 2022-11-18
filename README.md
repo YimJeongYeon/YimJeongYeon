@@ -5,7 +5,7 @@
 I'd love to get feedbacks, feel free to comment! 💌
 
 ### Contact Me Here!
-<a href="yjy5923@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yjy5923@gmail.com-red?style=for-the-badge&logo=GMAIL&logoColor=white"/></a> <a href="https://www.instagram.com/ren__dezvou_s/" target="_blank"><img src="https://img.shields.io/badge/rendez_vou_s-fuchsia?style=for-the-badge&logo=INSTAGRAM&logoColor=white"/></a>  <a href="https://velog.io/@rendez_vou_s" target="_blank"><img src="https://img.shields.io/badge/velog-99FFCC?style=for-the-badge&logo=VELOG&logoColor=003300"/></a> 
+<a href="yjy5923@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yjy5923@gmail.com-red?style=for-the-badge&logo=GMAIL&logoColor=white"/></a> <a href="https://www.instagram.com/rendez_vou_s/" target="_blank"><img src="https://img.shields.io/badge/rendez_vou_s-fuchsia?style=for-the-badge&logo=INSTAGRAM&logoColor=white"/></a>  <a href="https://velog.io/@rendez_vou_s" target="_blank"><img src="https://img.shields.io/badge/velog-99FFCC?style=for-the-badge&logo=VELOG&logoColor=003300"/></a> 
 
 ### 💪Skills
 #### Languages (Used at least once)
