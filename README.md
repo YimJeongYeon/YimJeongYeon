@@ -8,7 +8,7 @@ I'd love to get feedbacks, feel free to comment! 💌
 <a href="yjy5923@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yjy5923@gmail.com-red?style=for-the-badge&logo=GMAIL&logoColor=white"/></a> <a href="https://www.instagram.com/ren__dezvou_s/" target="_blank"><img src="https://img.shields.io/badge/rendez_vou_s-fuchsia?style=for-the-badge&logo=INSTAGRAM&logoColor=white"/></a>  <a href="https://velog.io/@rendez_vou_s" target="_blank"><img src="https://img.shields.io/badge/velog-99FFCC?style=for-the-badge&logo=VELOG&logoColor=003300"/></a> 
 
 ### 💪Skills
-#####Languages (Used at least once)
+##### Languages (Used at least once)
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
